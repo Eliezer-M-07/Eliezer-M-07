@@ -1,4 +1,4 @@
-### Olá pessoas, me chamo Eliézer Martins, é um prazer.
+### Olá pessoas, me chamo Eliézer Martins, é um prazer "conhece-los".
 <hr>
 - Possuo demasiada apreciação por python.<br>
 - Estou estudando programação.<br>
