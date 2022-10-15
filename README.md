@@ -1,9 +1,9 @@
 ### Olá pessoas, me chamo Eliézer Martins, é um prazer "conhece-los".
-
-- Possuo demasiada apreciação por python.
-- Estou estudando programação.
-- Atualmente possuo 15 anos.
-- Espero trabalhar com python futuramente.
+<hr>
+● Possuo demasiada apreciação por python.<br>
+● Estou estudando programação.<br>
+● Atualmente possuo 15 anos.<br>
+● Espero trabalhar com python futuramente.
  
 <div><br>
 
