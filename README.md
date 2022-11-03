@@ -3,7 +3,7 @@
 • Possuo demasiada apreciação por python.<br>
 • Estou estudando programação.<br>
 • Atualmente possuo 15 anos.<br>
-• Estou treinando Flask.<br>
+• No momento estou vendo flask.<br>
 • Espero trabalhar com python futuramente.
  
 <div><br>
