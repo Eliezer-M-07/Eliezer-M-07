@@ -6,5 +6,5 @@
 • Espero trabalhar com python futuramente.<br><br>
 
 
-<img  height="640px" width="600px" src="https://i.pinimg.com/originals/82/a1/e7/82a1e7229fce584fd30fd2eb20ad727c.gif"><br><br>
+<img  height="550px" width="560px" src="https://i.pinimg.com/originals/82/a1/e7/82a1e7229fce584fd30fd2eb20ad727c.gif"><br><br>
 
