@@ -4,7 +4,14 @@
 • Estou estudando programação.<br>
 • Atualmente possuo 15 anos.<br>
 • Espero trabalhar com python futuramente.<br><br>
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Eliezer-M-07&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<hr>
+<h3>O que você encontrará aqui</h3>
+<p>
+ • Codigos principalmente com linguagem python.<br>
+ • Codigos aleatorios que pensei em criar.
+  
+  
+</p>
 <img height="495px" src="https://i.pinimg.com/originals/db/cd/4e/dbcd4e6b6da7c80acb96b61b8c5b3a20.gif"><br>
 
