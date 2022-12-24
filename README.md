@@ -6,5 +6,5 @@
 • Espero trabalhar com python futuramente.<br><br>
 
 
-<img height="420px" src="https://cutewallpaper.org/21/8-bit-gif-background/16-Super-Chill-Pixel-GIFs-To-Help-You-Take-It-Easy-Dorkly-Post.gif"><br>
+<img height="495px" src="https://i.pinimg.com/originals/db/cd/4e/dbcd4e6b6da7c80acb96b61b8c5b3a20.gif"><br>
 
