@@ -8,8 +8,8 @@
 <hr>
 <h3>O que você encontrará aqui</h3>
 <p>
- • Codigos principalmente com linguagem python.<br>
- • Codigos aleatorios que pensei em criar.<br>
+ • Códigos principalmente com linguagem python.<br>
+ • Códigos aleatorios que pensei em criar.<br>
  • Problemas Beecrowd resolvidos com python.
   
   
