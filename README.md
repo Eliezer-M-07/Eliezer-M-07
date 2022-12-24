@@ -9,7 +9,8 @@
 <h3>O que você encontrará aqui</h3>
 <p>
  • Codigos principalmente com linguagem python.<br>
- • Codigos aleatorios que pensei em criar.
+ • Codigos aleatorios que pensei em criar.<br>
+ • Problemas Beecrowd resolvidos com python.
   
   
 </p>
