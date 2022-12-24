@@ -3,7 +3,8 @@
 • Possuo demasiada apreciação por python. <br>
 • Estou estudando programação.<br>
 • Atualmente possuo 15 anos.<br>
-• Espero trabalhar com python futuramente.<br><br>
+• Espero trabalhar com python futuramente.<br>
+• Já falei que gosto de python?<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Eliezer-M-07&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <hr>
 <h3>O que você encontrará aqui</h3>
