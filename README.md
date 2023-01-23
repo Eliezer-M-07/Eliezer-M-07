@@ -1,16 +1,16 @@
- ### Hello, Welcome.
+ ### Olá, seja bem-vindo(a)
  <hr>
- • I have too much appreciation for python.<br>
- • I'm studying programming.<br>
- • I am currently 16 years old.<br>
- • Hope to work with python in the future.<br><br>
+ • Possuo demasiada apreciação por python.<br>
+ • Estou estudando programação.<br>
+ • Atualmente possuo 16 anos.<br>
+ • Espero trabalhar com python futuramente.<br><br>
  <img height="495px" src="https://i.pinimg.com/originals/db/cd/4e/dbcd4e6b6da7c80acb96b61b8c5b3a20.gif">
  <hr>
- <h3>What will you find here</h3>
+ <h3>O que você encontrará aqui</h3>
  <p>
-  • Codes mainly with python language.<br>
-  • Random Codes I Thought I'd Create.<br>
-  • Beecrowd problems solved with python.
+  • Códigos principalmente com linguagem python.<br>
+  • Códigos aleatorios que pensei em criar.<br>
+  • Problemas Beecrowd resolvidos com python.
 
 
  </p>
