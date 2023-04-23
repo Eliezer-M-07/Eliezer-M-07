@@ -1,6 +1,6 @@
  ### Olá, seja bem-vindo(a)
  <hr>
- • Possuo demasiada apreciação por python.<br>
+ • Possuo apreciação por python.<br>
  • Estou estudando programação.<br>
  • Atualmente possuo 16 anos.<br>
  • Espero trabalhar com python futuramente.<br><br>
