@@ -3,7 +3,7 @@
  <br>
  <img height="495px" src="https://i.pinimg.com/originals/db/cd/4e/dbcd4e6b6da7c80acb96b61b8c5b3a20.gif">
  <hr>
- <marquee><h3>O que você encontrará aqui</h3></marquee>
+ <h3>O que você encontrará aqui</h3>
  <p>
   • Códigos principalmente com linguagem python.<br>
   • Projetos aleatórios que pensei em criar.<br>
