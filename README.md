@@ -1,7 +1,7 @@
  ### Olá, seja bem-vindo(a)
  <hr>
  <br>
- <img height="495px" src="dbcd4e6b6da7c80acb96b61b8c5b3a20](https://github.com/Eliezer-M-07/Eliezer-M-07/assets/94458792/7305eaa4-cb2f-4013-87e7-2deb1d389ac7">
+ <img height="495px" src="https://github.com/Eliezer-M-07/Eliezer-M-07/assets/94458792/7305eaa4-cb2f-4013-87e7-2deb1d389ac7">
  <hr>
  <h3>O que você encontrará aqui</h3>
  <p>
