@@ -2,6 +2,12 @@
   <img src="https://github.com/Eliezer-M-07/Eliezer-M-07/blob/main/GitHub%20Banner.png" alt="Banner" width="100%">
 </p>
 
+<p style="display: flex; align-items: center; gap: 10px;" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eliezer-M-07&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
+
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliezer-M-07)
