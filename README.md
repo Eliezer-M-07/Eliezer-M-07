@@ -2,43 +2,26 @@
   <img src="https://github.com/Eliezer-M-07/Eliezer-M-07/blob/main/GitHub%20Banner.png" alt="Banner" width="100%">
 </p>
 
-
 ## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/eliezer-m/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:elzm02.18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Eliezer-M-07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eliezer-M-07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-m/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elzm02.18@gmail.com)
 
 ## About Me
 
 <table>
 <tr>
 <td>
-
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc6%2F3c%2Fae%2Fc63cae1344766f14d9d184e5aafed065.gif&f=1&nofb=1&ipt=6a1289220adb93371abcee2da52790989f10123bd3169e3c45d75438442f5acf" width="450"/>
-
 </td>
 <td>
 I am a student of Systems Analysis and Development (ADS), always seeking to improve my skills and explore new technologies.  
 Passionate about coding, learning, and building projects that challenge me.  
-
-
 </td>
 </tr>
 </table>
 </p>
-
-
 
 ## Technologies
 
@@ -66,9 +49,6 @@ Passionate about coding, learning, and building projects that challenge me.
 </td>
 </tr>
 </table>
-
-
-
 
 ## Contributions Graph
 
