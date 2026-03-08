@@ -15,8 +15,8 @@
 - Building personal projects to improve consistency and code quality 
 ### Stack
 
-```txt
-Languages:   Python  
+```txt  
 Frontend:    HTML | CSS | Tailwind CSS  
 Backend:     PHP | Laravel | Node.js
 Database:    PostgreSQL | MySQL
+Alternative programming language: Python
