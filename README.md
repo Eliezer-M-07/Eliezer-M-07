@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</p>
 
-<!--
-**Eliezer-M-07/Eliezer-M-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center text-justify">
+“They’re all just people, right? When you get down to it, everyone’s the same. They love something. They want something. They fear something. The details help, but they don’t change the fact that everyone is vulnerable. It just changes how we access those vulnerabilities.”
+</p>
+<strong>— Elliot Alderson, Mr. Robot</strong>
 
-Here are some ideas to get you started:
+---
+### About
+- Back-end developer in training.
+- Focused on web applications.
+- Studying software architecture and best practices.
+- Building personal projects to improve consistency and code quality 
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+Frontend:    HTML | CSS | Tailwind CSS  
+Backend:     PHP | Laravel | Node.js
+Database:    PostgreSQL | MySQL
+Languages:   Python | Java
