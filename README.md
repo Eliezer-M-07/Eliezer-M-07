@@ -16,7 +16,7 @@
 ### Stack
 
 ```txt
-Frontend:    HTML | CSS | Tailwind CSS  
+Frontend:    HTML | CSS | JavaScript | Boostrap  
 Backend:     PHP | Laravel | Node.js
 Database:    PostgreSQL | MySQL
-Languages:   Python | Java
+Languages:   Python 
